@@ -116,6 +116,11 @@ int sumNumbersFromGenerators(std::vector<GeneratorType> const& types, int num)
 // TODO Write a loop that goes over a collection of GeneratorType values (types) and creates generator for given type, 
 // then sums up all generated values for each type and returns the sum of sums.
 // Use sumGeneratedNumbers to sum generate values for each generator.
+	for (auto i:types)
+	{
+
+	}
+
 }
 
 int main()
